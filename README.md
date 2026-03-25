@@ -1,6 +1,7 @@
 # 💀 tkill 
 
 A high-visibility, minimalist process manager TUI for developers who need to terminate processes fast. Built with `prompt-toolkit` and `psutil`.
+![tkill preview](tkill_screenshot.png)
 
 ## ⚡ Features
 
