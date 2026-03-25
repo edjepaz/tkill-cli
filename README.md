@@ -51,4 +51,4 @@ pyinstaller --onefile --name tkill tkill.py
 MIT License. Feel free to use and modify.
 
 ---
-Built with ❤️ by [Your Name/Username]
+Built with ❤️ by Edward Paz ([@edjepaz](https://github.com/edjepaz))
